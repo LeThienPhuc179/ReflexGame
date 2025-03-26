@@ -1,2 +1,2 @@
 # ReflexGame
-ReflexGame Writtent in Arm Assembly
+ReflexGame Written in Arm Assembly
